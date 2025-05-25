@@ -14,11 +14,6 @@ A basic Python script to retrieve geolocation and organisational information abo
 - Handling JSON API responses
 - Using OSINT tools for basic security analysis
 
-- Python file handling
-- Regular expressions for log parsing
-- Brute-force login detection logic
-- Basics of Linux authentication logging
-
 ## How to Run
 
 ```bash
